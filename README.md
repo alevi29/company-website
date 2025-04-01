@@ -1,5 +1,6 @@
 # company-website
 
-cd frontend
-npm i
-npm start
+## Installation
+**cd frontend**  
+**npm i**  
+**npm start**
